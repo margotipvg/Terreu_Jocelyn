@@ -1,0 +1,4 @@
+Diseñar un programa en C que encuentre el área y el perímetro de un rectángulo al conocer sus lados. Considere las fórmulas:
+
+	•AREA = BASE x ALTURA
+	•PERÍMETRO = 2 x (BASE + ALTURA)
